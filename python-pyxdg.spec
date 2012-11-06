@@ -2,12 +2,12 @@
 
 Summary:	Python implementations of freedesktop.org standards
 Name:		python-%{module}
-Version:	0.23
+Version:	0.24
 Release:	1
 License:	LGPL
 Group:		Libraries/Python
 Source0:	http://people.freedesktop.org/~takluyver/%{module}-%{version}.tar.gz
-# Source0-md5:	0710357dfb914ac22122566299cac61c
+# Source0-md5:	f87bcec485261a59030df4ecf7dfe035
 URL:		http://freedesktop.org/Software/pyxdg
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
